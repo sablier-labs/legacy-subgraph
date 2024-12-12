@@ -1,13 +1,13 @@
 {
   "name": "@sablier/subgraph",
-  "description": "Subgraph for the Sablier V1 token distribution protocol",
+  "description": "Subgraph for the Sablier Legacy protocol",
   "version": "1.0.0",
   "author": {
     "name": "Sablier",
     "url": "https://sablier.com"
   },
   "bugs": {
-    "url": "https://github.com/sablier-labs/v1-subgraph/issues"
+    "url": "https://github.com/sablier-labs/legacy-subgraph/issues"
   },
   "devDependencies": {
     "@graphprotocol/graph-cli": "^0.23.0",
@@ -24,7 +24,7 @@
   },
   "license": "LGPL-3.0",
   "private": true,
-  "repository": "github.com/sablier-labs/v1-subgraph",
+  "repository": "github.com/sablier-labs/legacy-subgraph",
   "scripts": {
     "build": "graph build --debug",
     "clean": "rm -rf ./build ./src/types ./subgraph.yaml",

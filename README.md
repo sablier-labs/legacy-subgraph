@@ -1,6 +1,6 @@
-# Sablier V1 Subgraph
+# Sablier Legacy Subgraph
 
-This is the subgraph of the Sablier V1 token streaming protocol, which is a legacy release. The most recent release is V2 and can be found [here](https://github.com/sablier-labs/v2-core). For more details about how Sablier works, check out our docs at [docs.sablier.com](https://docs.sablier.com)/.
+This is the subgraph of the Sablier Legacy token streaming protocol. The most recent release is called Lockup and can be found [here](https://github.com/sablier-labs/lockup). For more details about how Sablier works, check out our docs at [docs.sablier.com](https://docs.sablier.com)/.
 
 You can interact with the subgraph using The Graph's hosted service:
 
@@ -13,7 +13,7 @@ You can interact with the subgraph using The Graph's hosted service:
 
 ## Queries
 
-Below are a few ways to show how to query the Sablier V1 subgraph for data. The queries show most of the information that
+Below are a few ways to show how to query the Sablier Legacy subgraph for data. The queries show most of the information that
 is queryable, but there are many other filtering options that can be used. Just check out the GraphQL API.
 
 ### Query All Streams
