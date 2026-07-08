@@ -2,14 +2,14 @@
 
 This is the subgraph of the Sablier Legacy token streaming protocol. The most recent release is called Lockup and can be found [here](https://github.com/sablier-labs/lockup). For more details about how Sablier works, check out our docs at [docs.sablier.com](https://docs.sablier.com)/.
 
-You can interact with the subgraph using The Graph's hosted service:
+You can interact with the subgraph using The Graph Gateway:
 
-- [sablier-labs/sablier](https://thegraph.com/explorer/subgraph/sablier-labs/sablier)
-- [sablier-labs/sablier-arbitrum](https://thegraph.com/explorer/subgraph/sablier-labs/sablier-arbitrum)
-- [sablier-labs/sablier-avalanche](https://thegraph.com/explorer/subgraph/sablier-labs/sablier-avalanche)
-- [sablier-labs/sablier-bsc](https://thegraph.com/explorer/subgraph/sablier-labs/sablier-bsc)
-- [sablier-labs/sablier-matic](https://thegraph.com/explorer/subgraph/sablier-labs/sablier-matic)
-- [sablier-labs/sablier-optimism](https://thegraph.com/explorer/subgraph/sablier-labs/sablier-optimism)
+- mainnet: `https://gateway-arbitrum.network.thegraph.com/api/<THE_GRAPH_API_KEY>/subgraphs/id/DkSXWkgJD5qVqfsrfzkLC5WELVX3Dbj3ByWcYjDJieCh`
+- arbitrum: `https://gateway-arbitrum.network.thegraph.com/api/<THE_GRAPH_API_KEY>/subgraphs/id/94SP9QVcxmGV9e2fxuTxUGcZfcv4tjpPCGyyPVyMfLP`
+- avalanche: `https://gateway-arbitrum.network.thegraph.com/api/<THE_GRAPH_API_KEY>/subgraphs/id/DK2gHCprwVaytwzwb5fUrkFS9xy7wh66NX6AFcDzMyF9`
+- bsc: `https://gateway-arbitrum.network.thegraph.com/api/<THE_GRAPH_API_KEY>/subgraphs/id/3Gyy7of99oBRqHcCMGJXpHw2xxxZgXxVmFPFR1vL6YhT`
+- matic: `https://gateway-arbitrum.network.thegraph.com/api/<THE_GRAPH_API_KEY>/subgraphs/id/6UMNQfMeh3pV5Qmn2NDX2UKNeUk9kh4oZhzzzn5e8rSz`
+- optimism: `https://gateway-arbitrum.network.thegraph.com/api/<THE_GRAPH_API_KEY>/subgraphs/id/BEnQbvBdXnohC1DpM9rSb47C1FbowK39HfPNCEHjgrBt`
 
 ## Queries
 
