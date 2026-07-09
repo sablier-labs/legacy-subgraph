@@ -72,7 +72,7 @@ You can do this with the [`where`](https://thegraph.com/docs/en/querying/graphql
 
 ```graphql
 {
-  transactions {
+  streamTransactions {
     id
     block
     event
