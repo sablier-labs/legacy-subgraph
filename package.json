@@ -23,8 +23,12 @@
     "typescript": "^4.4.4"
   },
   "license": "LGPL-3.0",
+  "packageManager": "yarn@4.12.0",
   "private": true,
   "repository": "github.com/sablier-labs/legacy-subgraph",
+  "resolutions": {
+    "ipfs-http-client@npm:34.0.0/concat-stream": "https://github.com/max-mapper/concat-stream.git#commit=057bc7b5d6d8df26c8cf00a3f151b6721a0a8034"
+  },
   "scripts": {
     "build": "graph build --debug",
     "clean": "rm -rf ./build ./src/types ./subgraph.yaml",
